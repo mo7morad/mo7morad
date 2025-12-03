@@ -18,6 +18,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -30,16 +32,33 @@
 
 
 ```dart
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Java", "Python", "C", "C++", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "SQLite", "PostgreSql" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma" }
+class About extends Me {
+  final myTools = {
+    "ProgrammingLanguages": {
+      "C",
+      "C++",
+      "C#",
+      "Python"
+    },
+    "Databases": {
+      "SQL Server",
+    },
+    "Editors": {
+      "Microsoft Visual Studio",
+      "VS Code",
+    },
+    "Platforms": {
+      "Linux",
+      "MacOS",
+      "Windows"
+    },
+    "OtherTools": {
+      "Git",
+      "GitHub",
+    }
   };
 }
+
 ```
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Currently exploring **Software Development & Cybersecurity**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
