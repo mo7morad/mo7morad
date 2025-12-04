@@ -78,13 +78,13 @@
     </td>
   </tr>
 </table>
+<hr>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; Currently exploring **Software Development & Cybersecurity**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> &nbsp; Big fan of **GNU/Linux** tinkering. <br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; Currently Last year **Software Engineering Student**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> &nbsp; Big fan of **GNU/Linux** <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp; Ask me about **programming, tech, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Telegram coming soon.<br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: If it works, don’t touch it. <br>
 
 <div align="center">
@@ -95,12 +95,6 @@
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="30%">
 </a>
 
-<details>
-  <summary>More stats</summary>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
-
-<hr>
 
 **Code Cycle**<br>
 
