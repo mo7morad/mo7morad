@@ -15,21 +15,10 @@
 <br>
 
 <div align="center">
-  <a href="https://stackoverflow.com/users/YOUR_ID_HERE">
-    <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/stackoverflow.png" width="35" height="35" alt="StackOverflow"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME_HERE">
+  <a href="https://www.linkedin.com/in/momorad">
     <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="35" height="35" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_USERNAME_HERE">
-    <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/twitter.png" width="35" height="35" alt="Twitter"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@YOUR_CHANNEL_HERE">
-    <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/youtube.png" width="35" height="35" alt="YouTube"/>
-  </a>
 </div>
 
 <hr>
@@ -134,7 +123,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="13" /> Fun fact: If it works, don’t touch it.
 
 **Code Cycle**
-<br>
 <br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
