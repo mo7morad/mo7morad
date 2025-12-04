@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Software Engineering Student 🎓 | Apple Developer Academy Alumni 
+  Software Engineering Student 🎓 | Apple Developer Academy Alumni <img src="https://img.icons8.com/?size=100&id=30840&format=png&color=808080" width="20" style="vertical-align:middle;" />
 </h3>
 
 <p align="center">
@@ -108,12 +108,7 @@
     </picture>
   </a>
   <br><br>
-  <a href="https://github.com/mo7morad">
-     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mo7morad&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=010409">
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mo7morad&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
-    </picture>
-  </a>
+
 </div>
 
 <br>
