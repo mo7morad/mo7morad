@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Software Engineering Student 🎓 | Apple Developer Academy Alumni <img src="https://img.icons8.com/?size=100&id=30840&format=png&color=808080" width="20" style="vertical-align:middle;" />
+ 🎓 Software Engineering Student  | <img src="https://img.icons8.com/?size=100&id=30840&format=png&color=808080" width="20" style="vertical-align:middle;" /> Apple Developer Academy Intern 
 </h3>
 
 <p align="center">
